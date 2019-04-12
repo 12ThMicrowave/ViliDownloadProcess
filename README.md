@@ -1,0 +1,2 @@
+# ViliDownloadProcess
+微信、头条内扫描二维码或者点击链接地址，识别当前系统（Android或IOS）,Android跳转至系统默认浏览器进行Apk下载，IOS跳转至App Store进行应用下载
